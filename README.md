@@ -4,10 +4,10 @@
 
 # Qual filme você recomendaria para uma pessoa que você não conhece?
  Minha estratégia é seguir 3 regras
- Regra 1 - Quantidade de votos desse filme tem que estar próximo a mediana, por dar indícios de uma quantidade recorrente de votos, sendo comum
- Regra 2 - Nota IMDB acima da média, dos filmes que tenham nmero de votos proximo a mediana
- Regra 3 - Faturamento acima da média, dos filmes que tenham nota acima da media e que tenham quantidade de votos prox da mediana
- Regra 4 - Meta_score acima da media, dos filmes que tenham faturamento acima da media, tenham nota acima da media e que tenham quantidade de votos prox da mediana
+ Regra 1 - Quantidade de votos desse filme tem que estar próximo a mediana, por dar indícios de uma quantidade recorrente de votos, sendo comum <br>
+ Regra 2 - Nota IMDB acima da média, dos filmes que tenham nmero de votos proximo a mediana <br>
+ Regra 3 - Faturamento acima da média, dos filmes que tenham nota acima da media e que tenham quantidade de votos prox da mediana <br>
+ Regra 4 - Meta_score acima da media, dos filmes que tenham faturamento acima da media, tenham nota acima da media e que tenham quantidade de votos prox da mediana <br>
   e por fim, obter o filme com maior soma de Meta_score e IMDB_Rating
 
 
