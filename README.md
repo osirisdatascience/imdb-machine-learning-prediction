@@ -1,7 +1,7 @@
 # imdb-machine-learning-prediction
 
 
-O projeto está dividido por céculas de markdown, com explicação clara do objetivo de cada célula de código.
+O projeto está dividido por células de markdown, com explicação clara do objetivo de cada célula de código.
 
 As perguntas foram respondidas e o modelo de Regressão foi implementado para prever a nota IMDB do livro em questão
 
