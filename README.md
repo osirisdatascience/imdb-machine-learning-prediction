@@ -1,6 +1,3 @@
-# imdb-machine-learning-prediction
-
-
 # O projeto está dividido por células de markdown, com explicação clara do objetivo de cada célula de código.
 
 # As perguntas foram respondidas:
